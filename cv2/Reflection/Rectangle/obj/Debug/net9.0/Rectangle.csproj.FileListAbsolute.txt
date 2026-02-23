@@ -1,0 +1,12 @@
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\ReflectionApp\plugins\Debug\net9.0\Rectangle.deps.json
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\ReflectionApp\plugins\Debug\net9.0\Rectangle.dll
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\ReflectionApp\plugins\Debug\net9.0\Rectangle.pdb
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Rectangle\obj\Debug\net9.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Rectangle\obj\Debug\net9.0\Rectangle.AssemblyInfoInputs.cache
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Rectangle\obj\Debug\net9.0\Rectangle.AssemblyInfo.cs
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Rectangle\obj\Debug\net9.0\Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Rectangle\obj\Debug\net9.0\Rectangle.sourcelink.json
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Rectangle\obj\Debug\net9.0\Rectangle.dll
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Rectangle\obj\Debug\net9.0\refint\Rectangle.dll
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Rectangle\obj\Debug\net9.0\Rectangle.pdb
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Rectangle\obj\Debug\net9.0\ref\Rectangle.dll

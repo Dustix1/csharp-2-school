@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAN0316\\csharp-2-school\\cv2\\Reflection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E17B11C1-C099-482F-B517-A50270798092}|ReflectionApp\\ReflectionApp.csproj|c:\\users\\kan0316\\csharp-2-school\\cv2\\reflection\\reflectionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17B11C1-C099-482F-B517-A50270798092}|ReflectionApp\\ReflectionApp.csproj|solutionrelative:reflectionapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F66BA9-E47F-417B-BD10-96C41078BF38}|Rectangle\\Rectangle.csproj|c:\\users\\kan0316\\csharp-2-school\\cv2\\reflection\\rectangle\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F66BA9-E47F-417B-BD10-96C41078BF38}|Rectangle\\Rectangle.csproj|solutionrelative:rectangle\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\csharp-2-school\\cv2\\Reflection\\Rectangle\\Test.cs",
+              "RelativeDocumentMoniker": "Rectangle\\Test.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\csharp-2-school\\cv2\\Reflection\\Rectangle\\Test.cs",
+              "RelativeToolTip": "Rectangle\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T08:07:44.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\csharp-2-school\\cv2\\Reflection\\ReflectionApp\\Program.cs",
+              "RelativeDocumentMoniker": "ReflectionApp\\Program.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\csharp-2-school\\cv2\\Reflection\\ReflectionApp\\Program.cs",
+              "RelativeToolTip": "ReflectionApp\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAmwDsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T08:03:48.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

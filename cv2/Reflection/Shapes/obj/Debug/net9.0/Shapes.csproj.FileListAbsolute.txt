@@ -1,0 +1,12 @@
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\ReflectionApp\plugins\Debug\net9.0\Shapes.deps.json
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\ReflectionApp\plugins\Debug\net9.0\Shapes.dll
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\ReflectionApp\plugins\Debug\net9.0\Shapes.pdb
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Shapes\obj\Debug\net9.0\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Shapes\obj\Debug\net9.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Shapes\obj\Debug\net9.0\Shapes.AssemblyInfo.cs
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Shapes\obj\Debug\net9.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Shapes\obj\Debug\net9.0\Shapes.sourcelink.json
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Shapes\obj\Debug\net9.0\Shapes.dll
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Shapes\obj\Debug\net9.0\refint\Shapes.dll
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Shapes\obj\Debug\net9.0\Shapes.pdb
+C:\Users\KAN0316\csharp-2-school\cv2\Reflection\Shapes\obj\Debug\net9.0\ref\Shapes.dll
