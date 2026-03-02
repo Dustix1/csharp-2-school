@@ -1,0 +1,15 @@
+C:\Users\KAN0316\csharp-2-school\cv3\Cviceni3\Cviceni3\bin\Debug\net8.0\Cviceni3.exe
+C:\Users\KAN0316\csharp-2-school\cv3\Cviceni3\Cviceni3\bin\Debug\net8.0\Cviceni3.deps.json
+C:\Users\KAN0316\csharp-2-school\cv3\Cviceni3\Cviceni3\bin\Debug\net8.0\Cviceni3.runtimeconfig.json
+C:\Users\KAN0316\csharp-2-school\cv3\Cviceni3\Cviceni3\bin\Debug\net8.0\Cviceni3.dll
+C:\Users\KAN0316\csharp-2-school\cv3\Cviceni3\Cviceni3\bin\Debug\net8.0\Cviceni3.pdb
+C:\Users\KAN0316\csharp-2-school\cv3\Cviceni3\Cviceni3\obj\Debug\net8.0\Cviceni3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAN0316\csharp-2-school\cv3\Cviceni3\Cviceni3\obj\Debug\net8.0\Cviceni3.AssemblyInfoInputs.cache
+C:\Users\KAN0316\csharp-2-school\cv3\Cviceni3\Cviceni3\obj\Debug\net8.0\Cviceni3.AssemblyInfo.cs
+C:\Users\KAN0316\csharp-2-school\cv3\Cviceni3\Cviceni3\obj\Debug\net8.0\Cviceni3.csproj.CoreCompileInputs.cache
+C:\Users\KAN0316\csharp-2-school\cv3\Cviceni3\Cviceni3\obj\Debug\net8.0\Cviceni3.sourcelink.json
+C:\Users\KAN0316\csharp-2-school\cv3\Cviceni3\Cviceni3\obj\Debug\net8.0\Cviceni3.dll
+C:\Users\KAN0316\csharp-2-school\cv3\Cviceni3\Cviceni3\obj\Debug\net8.0\refint\Cviceni3.dll
+C:\Users\KAN0316\csharp-2-school\cv3\Cviceni3\Cviceni3\obj\Debug\net8.0\Cviceni3.pdb
+C:\Users\KAN0316\csharp-2-school\cv3\Cviceni3\Cviceni3\obj\Debug\net8.0\Cviceni3.genruntimeconfig.cache
+C:\Users\KAN0316\csharp-2-school\cv3\Cviceni3\Cviceni3\obj\Debug\net8.0\ref\Cviceni3.dll
