@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\csharp-2-school\\cv4\\webapplication1\\webapplication1\\formmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\formmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\csharp-2-school\\cv4\\webapplication1\\webapplication1\\firstmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\firstmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\csharp-2-school\\cv4\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\csharp-2-school\\cv4\\webapplication1\\webapplication1\\browserauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\browserauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\csharp-2-school\\cv4\\webapplication1\\webapplication1\\errormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\errormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\csharp-2-school\\cv4\\webapplication1\\webapplication1\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\exceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\csharp-2-school\\cv4\\webapplication1\\webapplication1\\imylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\imylogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\csharp-2-school\\cv4\\webapplication1\\webapplication1\\jsonlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\jsonlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\csharp-2-school\\cv4\\webapplication1\\webapplication1\\txtlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\txtlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\csharp-2-school\\cv4\\webapplication1\\webapplication1\\staticfilemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458EAD84-3047-4D27-A40B-F1D01AD6CE0B}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\staticfilemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\FormMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\FormMiddleware.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\FormMiddleware.cs",
+              "RelativeToolTip": "WebApplication1\\FormMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:09:55.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrowserAuthMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\BrowserAuthMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\BrowserAuthMiddleware.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\BrowserAuthMiddleware.cs",
+              "RelativeToolTip": "WebApplication1\\BrowserAuthMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:03:10.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMyLogger.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\IMyLogger.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\IMyLogger.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\IMyLogger.cs",
+              "RelativeToolTip": "WebApplication1\\IMyLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:57:51.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JsonLogger.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\JsonLogger.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\JsonLogger.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\JsonLogger.cs",
+              "RelativeToolTip": "WebApplication1\\JsonLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:53:45.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TxtLogger.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\TxtLogger.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\TxtLogger.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\TxtLogger.cs",
+              "RelativeToolTip": "WebApplication1\\TxtLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:45:48.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExceptionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\ExceptionHandler.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ExceptionHandler.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\ExceptionHandler.cs",
+              "RelativeToolTip": "WebApplication1\\ExceptionHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:40:39.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\ErrorMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ErrorMiddleware.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\ErrorMiddleware.cs",
+              "RelativeToolTip": "WebApplication1\\ErrorMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:29:20.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StaticFileMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\StaticFileMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\StaticFileMiddleware.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\StaticFileMiddleware.cs",
+              "RelativeToolTip": "WebApplication1\\StaticFileMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:14:57.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FirstMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\FirstMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\FirstMiddleware.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\FirstMiddleware.cs",
+              "RelativeToolTip": "WebApplication1\\FirstMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T08:04:11.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\csharp-2-school\\cv4\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:56:35.95Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
