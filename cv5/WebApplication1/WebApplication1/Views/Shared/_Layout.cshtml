@@ -1,0 +1,22 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - WebApplication1</title>
+</head>
+<body>
+    <h1>Můj e-shop</h1>
+    <ul>
+        <li><a asp-action="Index" asp-controller="Home">úvodní stránka</a></li>
+        <li><a asp-action="Index" asp-controller="Product">seznam produktů</a></li>
+
+        <li><a href="@Url.ActionLink("Index", "Product")">seznam poduktů</a></li>
+        <li>@Html.ActionLink("seznam produktů", "Index", "Product")</li>
+    </ul>
+
+
+    @RenderBody()
+
+</body>
+</html>

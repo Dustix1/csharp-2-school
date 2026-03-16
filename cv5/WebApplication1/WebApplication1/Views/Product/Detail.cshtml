@@ -1,0 +1,19 @@
+﻿@model AddToBasketForm
+@{
+    int x = 10;
+    Product product = ViewBag.Product;
+}
+
+<h2>Detail @product.Name</h2>
+<p>@product.Description</p>
+<img src="@product.Photo" width="150" />
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(x => x.Quantity)
+    @Html.TextBoxFor(x => x.Quantity)
+    @Html.ValidationMessageFor(x => x.Quantity)
+
+    @Html.HiddenFor(x => x.ProductId)
+    <button type="submit">přidat</button>
+}

@@ -1,0 +1,7 @@
+﻿<h2>Nákupní košík</h2>
+<ul>
+    @foreach(Product product in ViewBag.Items)
+    {
+        <li>@product.Name @Html.ActionLink("X", "Remove", new { id = product.Id })</li>
+    }
+</ul>

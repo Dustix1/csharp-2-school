@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\source\\repos\\webapplication1\\webapplication1\\models\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\source\\repos\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\source\\repos\\webapplication1\\webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\source\\repos\\webapplication1\\webapplication1\\views\\product\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\product\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\source\\repos\\webapplication1\\webapplication1\\models\\addtobasketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\addtobasketform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\source\\repos\\webapplication1\\webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\source\\repos\\webapplication1\\webapplication1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\source\\repos\\webapplication1\\webapplication1\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\product\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\source\\repos\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\source\\repos\\webapplication1\\webapplication1\\models\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|c:\\users\\kan0316\\source\\repos\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A47302AA-E586-4BFD-A5D1-D7121E72C4D9}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:18:19.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Models\\CartService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\CartService.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Models\\CartService.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwCIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:02:26.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Product\\Cart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Product\\Cart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T08:59:10.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddToBasketForm.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Models\\AddToBasketForm.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\AddToBasketForm.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Models\\AddToBasketForm.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\AddToBasketForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:38:56.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ProductService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\ProductService.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Models\\ProductService.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:19:28.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T08:11:44.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Product\\Detail.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Product\\Detail.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\Detail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T08:10:24.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T08:07:47.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:05:23.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:02:13.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T08:01:56.762Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

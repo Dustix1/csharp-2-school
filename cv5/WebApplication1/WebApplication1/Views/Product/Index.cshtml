@@ -1,0 +1,12 @@
+﻿<h2>Produkty</h2>
+
+@foreach(Product product in ViewBag.Products)
+{
+    <div>
+        <h3>@Html.ActionLink(@product.Name, "Detail", new { id = product.Id, TextReader = "skibidiIdk" })</h3>
+        <span>@product.Price Kč</span>
+        <p>
+            @product.Description.Substring(0, 30) ...
+        </p>
+    </div>
+}
