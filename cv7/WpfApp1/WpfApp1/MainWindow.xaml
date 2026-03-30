@@ -1,0 +1,36 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition Height="22" />
+        </Grid.RowDefinitions>
+        
+        <DataGrid Grid.Row="0" ItemsSource="{Binding Customers}" CanUserAddRows="False" CanUserDeleteRows="False" IsReadOnly="True" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding FirstName}" Header="Jméno" />
+                <DataGridTextColumn Binding="{Binding LastName}" Header="Příjmení" />
+                <DataGridTextColumn Binding="{Binding Age}" Header="Věk" />
+                <DataGridTemplateColumn Header="Tlačítka">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <Button Content="odstranit" Click="RemoveCustomer" />
+                                <Button Content="anonymizovat" Click="AnonymizeCustomer" />
+                                <Button Content="upravit" Click="EditCustomer" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Grid.Row="1" Content="Přidat zákazníka" Click="AddCustomer"/>
+            
+    </Grid>
+</Window>

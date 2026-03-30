@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28E946-B9EC-41A3-BC56-8D35C195168A}|WpfApp1\\WpfApp1.csproj|c:\\users\\kan0316\\source\\repos\\wpfapp1\\wpfapp1\\skibiditoiletdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB28E946-B9EC-41A3-BC56-8D35C195168A}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\skibiditoiletdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28E946-B9EC-41A3-BC56-8D35C195168A}|WpfApp1\\WpfApp1.csproj|c:\\users\\kan0316\\source\\repos\\wpfapp1\\wpfapp1\\skibiditoiletdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28E946-B9EC-41A3-BC56-8D35C195168A}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\skibiditoiletdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28E946-B9EC-41A3-BC56-8D35C195168A}|WpfApp1\\WpfApp1.csproj|c:\\users\\kan0316\\source\\repos\\wpfapp1\\wpfapp1\\formrow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28E946-B9EC-41A3-BC56-8D35C195168A}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\formrow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28E946-B9EC-41A3-BC56-8D35C195168A}|WpfApp1\\WpfApp1.csproj|c:\\users\\kan0316\\source\\repos\\wpfapp1\\wpfapp1\\formrow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB28E946-B9EC-41A3-BC56-8D35C195168A}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\formrow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28E946-B9EC-41A3-BC56-8D35C195168A}|WpfApp1\\WpfApp1.csproj|c:\\users\\kan0316\\source\\repos\\wpfapp1\\wpfapp1\\upperconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28E946-B9EC-41A3-BC56-8D35C195168A}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\upperconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28E946-B9EC-41A3-BC56-8D35C195168A}|WpfApp1\\WpfApp1.csproj|c:\\users\\kan0316\\source\\repos\\wpfapp1\\wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28E946-B9EC-41A3-BC56-8D35C195168A}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28E946-B9EC-41A3-BC56-8D35C195168A}|WpfApp1\\WpfApp1.csproj|c:\\users\\kan0316\\source\\repos\\wpfapp1\\wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FB28E946-B9EC-41A3-BC56-8D35C195168A}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB28E946-B9EC-41A3-BC56-8D35C195168A}|WpfApp1\\WpfApp1.csproj|c:\\users\\kan0316\\source\\repos\\wpfapp1\\wpfapp1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB28E946-B9EC-41A3-BC56-8D35C195168A}|WpfApp1\\WpfApp1.csproj|solutionrelative:wpfapp1\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormRow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\WpfApp1\\FormRow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\FormRow.xaml.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\WpfApp1\\FormRow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\FormRow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:16:47.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkibiditoiletDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\WpfApp1\\SkibiditoiletDialog.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\SkibiditoiletDialog.xaml",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\WpfApp1\\SkibiditoiletDialog.xaml",
+              "RelativeToolTip": "WpfApp1\\SkibiditoiletDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-30T07:53:20.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormRow.xaml",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\WpfApp1\\FormRow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\FormRow.xaml",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\WpfApp1\\FormRow.xaml",
+              "RelativeToolTip": "WpfApp1\\FormRow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-30T08:15:22.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpperConverter.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\WpfApp1\\UpperConverter.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\UpperConverter.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\WpfApp1\\UpperConverter.cs",
+              "RelativeToolTip": "WpfApp1\\UpperConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:06:24.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SkibiditoiletDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\WpfApp1\\SkibiditoiletDialog.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\SkibiditoiletDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\WpfApp1\\SkibiditoiletDialog.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\SkibiditoiletDialog.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:55:33.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\WpfApp1\\Customer.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Customer.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\WpfApp1\\Customer.cs",
+              "RelativeToolTip": "WpfApp1\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:12:12.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-30T06:56:14.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\KAN0316\\source\\repos\\WpfApp1\\WpfApp1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wEcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:56:12.08Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
